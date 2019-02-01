@@ -18,3 +18,7 @@ def fill_up_tank
   end
  
 end
+
+class Car < Vehicle
+  
+end
